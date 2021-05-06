@@ -1,1 +1,1 @@
-# sample-app2
+# sample-app2 変更したぜpullしろや
